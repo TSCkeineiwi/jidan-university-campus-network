@@ -1,0 +1,142 @@
+﻿[
+    {
+        "offset":  "0x039B9C",
+        "orig":  "A104",
+        "patched":  "0000"
+    },
+    {
+        "offset":  "0x0427E3",
+        "orig":  "A104",
+        "patched":  "0000"
+    },
+    {
+        "offset":  "0x0429E4",
+        "orig":  "A104",
+        "patched":  "0000"
+    },
+    {
+        "offset":  "0x043574",
+        "orig":  "06",
+        "patched":  "79"
+    },
+    {
+        "offset":  "0x043586",
+        "orig":  "E884E2FFFF",
+        "patched":  "9090909090"
+    },
+    {
+        "offset":  "0x0435A9",
+        "orig":  "A104",
+        "patched":  "0000"
+    },
+    {
+        "offset":  "0x04377B",
+        "orig":  "A104",
+        "patched":  "0000"
+    },
+    {
+        "offset":  "0x043859",
+        "orig":  "A104",
+        "patched":  "0000"
+    },
+    {
+        "offset":  "0x0439E7",
+        "orig":  "A104",
+        "patched":  "0000"
+    },
+    {
+        "offset":  "0x043B14",
+        "orig":  "A104",
+        "patched":  "0000"
+    },
+    {
+        "offset":  "0x044154",
+        "orig":  "A104",
+        "patched":  "0000"
+    },
+    {
+        "offset":  "0x04431C",
+        "orig":  "E8EED4FFFF",
+        "patched":  "9090909090"
+    },
+    {
+        "offset":  "0x04433D",
+        "orig":  "A104",
+        "patched":  "0000"
+    },
+    {
+        "offset":  "0x0443D0",
+        "orig":  "A104",
+        "patched":  "0000"
+    },
+    {
+        "offset":  "0x044C47",
+        "orig":  "A104",
+        "patched":  "0000"
+    },
+    {
+        "offset":  "0x045512",
+        "orig":  "A104",
+        "patched":  "0000"
+    },
+    {
+        "offset":  "0x0455EC",
+        "orig":  "A104",
+        "patched":  "0000"
+    },
+    {
+        "offset":  "0x045908",
+        "orig":  "E802BFFFFF",
+        "patched":  "9090909090"
+    },
+    {
+        "offset":  "0x045936",
+        "orig":  "A104",
+        "patched":  "0000"
+    },
+    {
+        "offset":  "0x045B92",
+        "orig":  "E878BCFFFF",
+        "patched":  "9090909090"
+    },
+    {
+        "offset":  "0x045BF1",
+        "orig":  "A104",
+        "patched":  "0000"
+    },
+    {
+        "offset":  "0x045D10",
+        "orig":  "E8FABAFFFF",
+        "patched":  "9090909090"
+    },
+    {
+        "offset":  "0x045D4F",
+        "orig":  "A104",
+        "patched":  "0000"
+    },
+    {
+        "offset":  "0x0FA61C",
+        "orig":  "6A04B8",
+        "patched":  "33C0C3"
+    },
+    {
+        "offset":  "0x0FA69A",
+        "orig":  "6A04B8",
+        "patched":  "33C0C3"
+    },
+    {
+        "offset":  "0x0FCFC7",
+        "orig":  "A104",
+        "patched":  "0000"
+    },
+    {
+        "offset":  "0x0FD2F3",
+        "orig":  "A104",
+        "patched":  "0000"
+    },
+    {
+        "offset":  "0x0FF27D",
+        "orig":  "A104",
+        "patched":  "0000"
+    }
+]
